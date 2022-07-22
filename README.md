@@ -1,6 +1,4 @@
-# PARCIAL 2 CORTE
-
-SISTEMA DE ARCHIVOS
+# SISTEMA DE ARCHIVOS
 
 Para simular un sistema de archivos, se quiere almacenar en una lista doblemente enlazada
 la informacion de los archivos del sistema. Todo fichero en el sistema de archivos tiene 
